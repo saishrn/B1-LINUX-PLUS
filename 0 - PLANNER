@@ -1,1 +1,37 @@
+**************************************
+PLANNER of CompTIA Linux+ XK0-006:
 
+1 - System Management
+1.1 - Architecture, Boot Process Fundamentals
+1.2 - Storage Management and LVM Fundamentals
+1.3 - Network Configuration and Connectivity Management
+1.4 - Shell Operations and Environment Management
+1.5 - Data Backup, Archiving, Recovery Techniques
+1.6 - Virtualization and Linux Based Hypervisors
+
+2 - Services and User Management
+2.1 - User and Group Administrator
+2.2 - Process and Service Management
+2.3 - Software and Package Management
+2.4 - Containerization and Image Management
+
+3 - Security
+3.1 - Linux Security and Authentication Management
+
+**********
+
+~> Linux Command
+~< Unix Command
+~* Important Point
+~+ Explore
+
+======================================
+
+File System
+Process Management
+Services
+Users & Permissions
+Networking
+Logs
+Shell scripting
+Kernel basics
